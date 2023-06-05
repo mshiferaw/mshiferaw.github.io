@@ -83,7 +83,7 @@ author:
   name             : "Mahlet Shiferaw"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Physics"
-  location         : "Stanford, CA"
+  # location         : "Stanford, CA"
   employer         : Stanford University
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
