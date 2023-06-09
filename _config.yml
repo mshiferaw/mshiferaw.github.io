@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Mahlet Shiferaw"
-  avatar           : "profile.png"
+  avatar           : "headshot.jpg"
   bio              : "PhD Candidate in Physics"
   # location         : "Stanford, CA"
   employer         : Stanford University
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=2&user=cL4njVMAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0002-5992-5975"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
