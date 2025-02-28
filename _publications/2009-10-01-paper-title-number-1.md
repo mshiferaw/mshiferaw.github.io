@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "How do uncertainties in galaxy formation physics impact field-level galaxy bias?"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Our ability to extract cosmological information from galaxy surveys is limited by uncertainties in the galaxy-dark matter halo relationship for a given galaxy population, which are governed by the intricacies of galaxy formation. To quantify these uncertainties, we examine quenched and star-forming galaxies using two distinct approaches to modeling galaxy formation: UniverseMachine, an empirical semi-analytic model, and the IllustrisTNG hydrodynamical simulation. We apply a second-order hybrid N-body perturbative bias expansion to each galaxy sample, enabling direct comparison of modeling approaches and revealing how uncertainties in galaxy formation and the galaxy-halo connection affect bias parameters and non-Poisson noise across number density and redshift. Notably, we find that quenched and star-forming galaxies occupy distinct parts of bias parameter spacce, and that the scatter induced from these entirely different galaxy formation models is small when conditioned on similar selections of galaxies. We also detect a signature of assembly bias in our samples; this leads to small but significant deviations from predictions of the analytic bias, while samples with assembly bias removed match these predictions well. This work indicates that galaxy samples from a spectrum of reasonable, physically motivated models for galaxy formation roughly spanning our current understanding give a relatively small range of field-level galaxy bias parameters and relations. We estimate a set of priors from this set of models that should be useful in extracting cosmological information from LRG- and ELG-like samples. Looking forward, this indicates that careful estimates of the range of impacts of galaxy formation for a given sample and cosmological analysis will be an essential ingredient for extracting the most precise cosmological information from current and future large galaxy surveys.'
+date: 2024-12-09
+venue: 'arXiv preprint'
+paperurl: 'https://arxiv.org/abs/2412.06886'
+citation: 'Shiferaw, Mahlet et al. (2024). &quot;How do uncertainties in galaxy formation physics impact field-level galaxy bias?&quot; <i>arXiv preprint</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/2412.06886)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
