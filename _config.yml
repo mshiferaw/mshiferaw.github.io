@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mahlet Shiferaw"
   avatar           : "headshot.jpg"
-  bio              : "PhD Candidate in Physics"
+  bio              : "Ph.D. Candidate in Physics"
   # location         : "Stanford, CA"
   employer         : Stanford University
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,7 +99,7 @@ author:
   github           : "mshiferaw"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 'artbymahlet'
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
