@@ -83,10 +83,7 @@ author:
   name             : "Mahlet Shiferaw"
   avatar           : "headshot.jpg"
   # bio              : "Ph.D. Candidate in Physics"
-  bio              : |
-  Ph.D. Candidate in Physics
-  NSF GRFP Fellow
-  Stanford Data Science Scholar
+  bio              : "Ph.D. Candidate in Physics<br>NSF GRFP Fellow<br>Stanford Data Science Scholar"
   # location         : "Stanford, CA"
   employer         : Stanford University
   # employerlink     : https://kipac.stanford.edu/
