@@ -20,6 +20,7 @@ main:
     
   - title: "CV"
     url: /files/website_CV.pdf
+    class: btn
     
   # - title: "Guide"
   #   url: /markdown/
