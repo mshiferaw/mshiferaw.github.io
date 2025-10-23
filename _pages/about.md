@@ -14,4 +14,4 @@ I am passionate about outreach and diversity in astronomy and physics. I have or
 
 In my free time, I love running, exploring San Francisco, and making [art](https://www.instagram.com/artbymahlet/).
 
-<i>This website is still under construction.</i>
+<!-- <i>This website is still under construction.</i> -->
