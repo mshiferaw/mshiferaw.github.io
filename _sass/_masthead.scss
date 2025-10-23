@@ -38,7 +38,7 @@
     padding: 0;
     clear: both;
     list-style-type: none;
-    text-align: center;
+    // text-align: center;
   }
 }
 
@@ -46,8 +46,8 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  display: inline-block;
-  float: none;
+  // display: inline-block;
+  // float: none;
 
   &--lg {
     padding-right: 2em;
