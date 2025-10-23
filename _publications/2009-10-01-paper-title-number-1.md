@@ -6,5 +6,5 @@ excerpt: 'Our ability to extract cosmological information from galaxy surveys is
 date: 2025-08-19
 venue: 'The Astrophysical Journal'
 # paperurl: 'https://arxiv.org/pdf/2412.06886'
-citation: 'Shiferaw, Mahlet et al. (2024). &quot;How do uncertainties in galaxy formation physics impact field-level galaxy bias?&quot; APJ.'
+citation: 'Shiferaw, Mahlet et al. (2025). &quot;How do uncertainties in galaxy formation physics impact field-level galaxy bias?&quot; APJ.'
 ---
