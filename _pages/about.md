@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year Physics Ph.D. Candidate at Stanford University, advised by [Professor Risa Wechsler](https://www.risawechsler.com/gfc-group.html). I work on exploring the galaxy-dark matter connection through structure-formation modeling and galaxy bias. You can view my work on [Google scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=cL4njVMAAAAJ), and read more about my research [here](https://mshiferaw.github.io/publications/).
+I am a 5th-year Physics Ph.D. Candidate at Stanford University, advised by [Professor Risa Wechsler](https://www.risawechsler.com/gfc-group.html). I work on exploring the galaxy-dark matter connection through structure-formation modeling and galaxy bias. You can view my work on [Google scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=cL4njVMAAAAJ) or [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Shiferaw,+M).
 
 I am passionate about outreach and diversity in astronomy and physics. I have organized a [Black in Physics](https://physics.stanford.edu/inclusion/black-physics-stanford) group here at Stanford University, and am learning about science communication through the [Wonderfest Science Envoys Program](https://wonderfest.org/science-envoy/). I am also a Stanford Data Science Scholar.
 
