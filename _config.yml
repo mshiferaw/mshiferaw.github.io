@@ -83,9 +83,10 @@ author:
   name             : "Mahlet Shiferaw"
   avatar           : "kipac.jpg"
   # bio              : "Ph.D. Candidate in Physics"
-  bio              : "Ph.D. Candidate in Physics<br>NSF GRFP Fellow<br>Stanford Data Science Scholar"
+  # bio              : "Ph.D. Candidate in Physics<br>NSF GRFP Fellow<br>Stanford Data Science Scholar"
+    bio              : "Postdoctoral Research Associate"
   # location         : "Stanford, CA"
-  employer         : Stanford University
+  employer         : Durham University #Stanford
   # employerlink     : https://kipac.stanford.edu/
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=2&user=cL4njVMAAAAJ"
