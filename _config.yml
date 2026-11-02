@@ -84,7 +84,7 @@ author:
   avatar           : "kipac.jpg"
   # bio              : "Ph.D. Candidate in Physics"
   # bio              : "Ph.D. Candidate in Physics<br>NSF GRFP Fellow<br>Stanford Data Science Scholar"
-    bio              : "Postdoctoral Research Associate"
+  bio              : "Postdoctoral Research Associate"
   # location         : "Stanford, CA"
   employer         : Durham University #Stanford
   # employerlink     : https://kipac.stanford.edu/
